@@ -92,16 +92,17 @@ const Logo = styled.div`
         font-weight: 600;
         font-size: 1.2rem;
     }
+
 `
 const Nav = styled.div`
     @media(max-width:640px){
         position: fixed;
         display: flex;
         flex-direction: column;
-        background-color: #01be96;
+        //  background-color: #01be96;
         inset: 0;
-        justify-content: center;
-        align-items: center;
+        justify-content : center;
+        align-items: end;
         font-size: 2rem;
         gap: 2rem;
         font-weight: 700;

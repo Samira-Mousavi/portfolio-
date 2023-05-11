@@ -20,13 +20,15 @@ let data = [
         disc : "pleasing application prototypes using Figma"
     },
     {
-        img : "https://res.cloudinary.com/ghazni/image/upload/v1661323981/Yt-portfolio/ui2_wtollo.png",
+        img : "https://group3dronestore.netlify.app/",
         disc : "Single page Application with React"
     },
+  
     {
-        img : "https://res.cloudinary.com/ghazni/image/upload/v1661323980/Yt-portfolio/ui3_akynn4.png",
-        disc : "Gamifying personality test(UI / UX / Figma) "
-    },
+      img : "https://res.cloudinary.com/ghazni/image/upload/v1661324074/Yt-portfolio/ui4_jku3ol.png",
+      disc : " ",
+      link : "https://ubiquitous-gaufre-0e6db5.netlify.app/"
+  },
   
 ];
 

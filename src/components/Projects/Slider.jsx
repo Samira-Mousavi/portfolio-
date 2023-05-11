@@ -15,13 +15,11 @@ let data = [
       disc : " Quiz Game with Javascript",
       link : "https://firtsgame.netlify.app/"
   },
+    
     {
-        img : "https://res.cloudinary.com/ghazni/image/upload/v1661324074/Yt-portfolio/ui4_jku3ol.png",
-        disc : "pleasing application prototypes using Figma"
-    },
-    {
-        img : "https://group3dronestore.netlify.app/",
-        disc : "Single page Application with React"
+        img :"https://res.cloudinary.com/ghazni/image/upload/v1661324074/Yt-portfolio/ui4_jku3ol.png",
+        disc : "Single page Application with React",
+        link : "https://group3dronestore.netlify.app/"
     },
   
     {

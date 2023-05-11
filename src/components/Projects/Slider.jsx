@@ -6,7 +6,7 @@ import styled from 'styled-components';
 
 let data = [
     {
-        img : "https://res.cloudinary.com/ghazni/image/upload/v1661324124/Yt-portfolio/ui5_mnvdaw.png",
+        img : "https://res.cloudinary.com/ghazni/image/upload/v1661324074/Yt-portfolio/ui4_jku3ol.png",
         disc : " 90s inspired website which is accessible, responsive and contain some basic interactivity",
         link : "https://roxettegroup.netlify.app/"
     },

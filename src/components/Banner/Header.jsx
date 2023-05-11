@@ -105,8 +105,8 @@ const Nav = styled.div`
         align-items: end;
         font-size: 2rem;
         gap: 0.5rem;
-        font-weight: 700;
-        height: ${props => props.bar ? "50vh" : 0};
+        font-weight: 600;
+        height: ${props => props.bar ? "90vh" : 0};
         transition: height 400ms ease-in-out;
         overflow: hidden;
         z-index: 100;

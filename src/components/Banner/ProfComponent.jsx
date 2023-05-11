@@ -18,27 +18,9 @@ const ProfComponent = () => {
           <p>
           I love creating beautiful, functional websites and applications,I'm always looking for new challenges and opportunities to learn and grow, and I'm committed to delivering high-quality work that meets or exceeds expectations. Let's build something great together!
           </p>
-          <button>Let's talk</button>
-          <Social>
-            <p>Check out my</p>
-            <div className="social-icons">
-              <span>
-                <a href="/">
-                  <AiOutlineInstagram />
-                </a>
-              </span>
-              <span>
-                <a href="/">
-                  <GiEarthAmerica />
-                </a>
-              </span>
-              <span>
-                <a href="/">
-                  <FaLinkedinIn />
-                </a>
-              </span>
-            </div>
-          </Social>
+          <a href="#footer"><button>Let's talk</button></a>
+          
+            
         </Texts>
       </Slide>
       <Slide direction="right">

@@ -12,7 +12,7 @@ let data = [
     },
     {
       img : "https://www.sourcecodester.com/sites/default/files/images/razormist/Simple%20Quiz%20Game%28Movie%20Edition%29%20in%20JavaScript%201.png",
-      disc : "A quiz game with JavaScript which presents a series of questions to the user and allows them to select one answer. The game is typically timed, with a set amount of time given for the user to answer each question. Once the user has answered all of the questions, the application calculates their score and displays it to them.",
+      disc : "A quiz game with JavaScript which presents a series of questions to the user and allows them to select one answer. The game is typically with a set amount of time given for the user to answer each question. Once the user has answered all of the questions, the application calculates their score and displays it to them.",
       link : "https://firtsgame.netlify.app/"
   },
     

@@ -11,7 +11,6 @@ const Card = (props) => {
     </Container>
   )
 }
-
 export default Card;
 
 const Container = styled.div`

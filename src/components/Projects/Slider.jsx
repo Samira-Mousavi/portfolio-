@@ -6,25 +6,25 @@ import styled from 'styled-components';
 
 let data = [
     {
-        img : "https://res.cloudinary.com/ghazni/image/upload/v1661324074/Yt-portfolio/ui4_jku3ol.png",
+        img : "https://images.pulsewebcontent.com/photos/2019/12_Dec/800/Roxette800_12_19.jpg",
         disc : " 90s inspired website which is accessible, responsive and contain some basic interactivity",
         link : "https://roxettegroup.netlify.app/"
     },
     {
-      img : "https://res.cloudinary.com/ghazni/image/upload/v1661324124/Yt-portfolio/ui5_mnvdaw.png",
-      disc : " Quiz Game with Javascript",
+      img : "https://www.sourcecodester.com/sites/default/files/images/razormist/Simple%20Quiz%20Game%28Movie%20Edition%29%20in%20JavaScript%201.png",
+      disc : "A quiz game with JavaScript which presents a series of questions to the user and allows them to select one answer. The game is typically timed, with a set amount of time given for the user to answer each question. Once the user has answered all of the questions, the application calculates their score and displays it to them.",
       link : "https://firtsgame.netlify.app/"
   },
     
     {
-        img :"https://res.cloudinary.com/ghazni/image/upload/v1661324074/Yt-portfolio/ui4_jku3ol.png",
-        disc : "Single page Application with React",
+        img :"https://www.exoscale.com/static/syslog/2018-06-14-what-is-a-single-page-application/what-is-spa.png",
+        disc : "A drone store made with React",
         link : "https://group3dronestore.netlify.app/"
     },
   
     {
-      img : "https://res.cloudinary.com/ghazni/image/upload/v1661324074/Yt-portfolio/ui4_jku3ol.png",
-      disc : " ",
+      img : "https://images.unsplash.com/photo-1615461065624-21b562ee5566?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1640&q=80",
+      disc : "a website made for a customer by Figma and React ",
       link : "https://ubiquitous-gaufre-0e6db5.netlify.app/"
   },
   
